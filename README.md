@@ -26,7 +26,7 @@ The smallest pokemon type in pokemon type 1 in terms of the number  of pokemon s
 Determining the strongest pokemon character depends on factors such as the stats. Considering the pokemon with exceptional overall power, it was discovered that Eternatus Eternamax is the strongest pokemon character with a stat of 1125. It has incredible base stats with high values in key attributes such as Special Defense, Hit-points e.t.c.
 
 ## THE WEAKEST POKEMON CHARACTER
-There are numerous characters with varying strengths and weaknesses. One pokemon that is often considered to have low base stats is Wishiwashi Solo Form. Wishiwashi Solo Farm is  water-type pokemon has been discovered to be the weakest pokemon. It has extremely low base stats in most attributes including Special Defense, speed, e.t.c.
+There are numerous characters with varying strengths and weaknesses. One pokemon that is often considered to have low base stats is Wishiwashi Solo Form. Wishiwashi Solo Farm, a  water-type pokemon has been discovered to be the weakest pokemon. It has extremely low base stats in most attributes including Special Defense, speed, e.t.c.
 
 ## POKEMON WITH THE HIGHEST SPEED
 Regieleki has been discovered to boast of a speed stat of 200. It is known for its swiftness and agility making it one of the fastest pokemon in existence. With such a high speed stat, Regieleki often  outspace most other pokemon, allowing it to strike first in battle.
