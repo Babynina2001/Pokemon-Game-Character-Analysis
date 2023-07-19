@@ -4,7 +4,7 @@ The world of pokemon is populated by a wide array of fascinating characters. The
 This repository aims to provide a comprehensive collection of information about these characters, shedding light on their strengths and weaknesses in the pokemon game.
 
 ## HOW STATS WORK IN POKEMON
-Statistics also known as the stats are values that apply to a pokemon’s abilities in battle. Most stats are affected by the individual pokemon and their level while others are exclusive to battles and moves. The six primary factors that determines how a pokemon will perform in a battle. They include:
+Statistics also known as the stats are values that apply to a pokemon’s abilities in battle. Most stats are affected by the individual pokemon and their level while others are exclusive to battles and moves. The six primary factors that determines how a pokemon will perform in a battle include:
 1.	Hit-Points determines how much damage a pokemon can receive. When a pokemon HP is completely down to zero, the pokemon will faint. HP is the frequently affected stat of them all. The average base HP for a pokemon is 68.
 2.	Attack stats determines how powerful a pokemon’s physical moves will be.
 3.	Special Attack determines how much damage a pokemon can cause while using a very special move. The average base special attack for a pokemon is 69.
