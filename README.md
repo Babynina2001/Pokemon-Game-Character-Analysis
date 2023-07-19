@@ -55,7 +55,8 @@ e.	Which character has the best stats such as hit points, special attacks, speci
 7.	Drawing Conclusions: The data story were summarized and conclusions were drawn from the analysis and offered recommendations or predictions based on findings.
 
 ## LIBRARIES USED FOR THE VISUALIZATION AND STORY TELLING
-•	Tableau
+•	Excel
+• Tableau
 
 ## SCREEN RECORDING OF THE VISUALIZATION
 https://www.loom.com/share/1afa5e86ba0442049f105dbe830d96ff?sid=156523aa-2d5d-402e-b141-067717e40a89
