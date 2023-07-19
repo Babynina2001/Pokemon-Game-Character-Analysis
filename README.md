@@ -58,6 +58,7 @@ e.	Which character has the best stats such as hit points, special attacks, speci
 •	Tableau
 
 ## SCREEN RECORDING OF THE VISUALIZATION
+https://www.loom.com/share/1afa5e86ba0442049f105dbe830d96ff?sid=156523aa-2d5d-402e-b141-067717e40a89
 
 ## CONCLUSION
 In conclusion, the pokemon game features a rich array of characters that contribute to the immersive and engaging gameplay experience. From the player character to their rivals, each character brings their unique traits and challenges to the storyline. The pokemon game character analysis examines various aspects of the pokemon species within the games to gain insights into their strengths, weaknesses and overall viability. This analysis helps trainers to make informed decisions when building their teams.
