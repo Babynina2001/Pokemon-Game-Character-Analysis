@@ -56,6 +56,7 @@ e.	Which character has the best stats such as hit points, special attacks, speci
 
 ## LIBRARIES USED FOR THE VISUALIZATION AND STORY TELLING
 •	Excel
+
 • Tableau
 
 ## SCREEN RECORDING OF THE VISUALIZATION
