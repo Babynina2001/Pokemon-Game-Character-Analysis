@@ -17,10 +17,10 @@ Types are properties applied to pokemon and their moves which affects the power 
 
 
 ## THE LARGEST POKEMON TYPE
-The largest pokemon type in terms of the number of pokemon species belonging to that type is the Water type. The water type is known for its versatility and representation of aquatic creatures.
+The largest pokemon type in the pokémon type 1 in terms of the number of pokemon species belonging to that type is the Water type while the largest type in the pokemon type 2 is the flying pokemon type. The water type is known for its versatility and representation of aquatic creatures.
 
 ## THE SMALLEST POKEMON TYPE
-The smallest pokemon type in terms of the number  of pokemon species is the Flying type. Flying type pokemons are often associated with birds or winged creatures, but there are also other non-avian pokemon that possess the flying type.
+The smallest pokemon type in pokemon type 1 in terms of the number  of pokemon species is the Flying type. Flying type pokemons are often associated with birds or winged creatures, but there are also other non-avian pokemon that possess the flying type.
 
 ## THE STRONGEST POKEMON CHARACTER
 Determining the strongest pokemon character depends on factors such as the stats. Considering the pokemon with exceptional overall power, it was discovered that Eternatus Eternamax is the strongest pokemon character with a stat of 1125. It has incredible base stats with high values in key attributes such as Special Defense, Hit-points e.t.c.
