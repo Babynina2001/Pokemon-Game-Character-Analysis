@@ -32,7 +32,7 @@ There are numerous characters with varying strengths and weaknesses. One pokemon
 Regieleki has been discovered to boast of a speed stat of 200. It is known for its swiftness and agility making it one of the fastest pokemon in existence. With such a high speed stat, Regieleki often  outspace most other pokemon, allowing it to strike first in battle.
 
 ## POKEMON WITH THE HIGHEST SPECIAL DEFENSE
-Eternatus Eternamax  has been discovered to boast of a special defense stat of 250, making t one of the highest in the pokemon universe. With such high special defense stat, it can endure special attacks with remarkable resilence.
+Eternatus Eternamax  has been discovered to boast of a special defense stat of 250, making it one of the highest in the pokemon universe. With such high special defense stat, it can endure special attacks with remarkable resilence.
 
 ## POKEMON WITH THE HIGHEST SPECIAL ATTACK
 The pokemon with exceptional special attack stats which determines the power of their moves is Mewtwo Mega Mewtwo X. Mewtwo Mega Mewtwo X a psychic type pokemon is known for its remarkable intelligence and psychic abilities. Its high special attack stat allows it to unleash devastating special moves with great power.
