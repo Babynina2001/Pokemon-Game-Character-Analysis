@@ -1,9 +1,9 @@
-# POKEMON GAME CHARACTER ANALYSIS
-## DATA STORY
+# Pokemon Game Character Analysis
+## Data Story
 The world of pokemon is populated by a wide array of fascinating characters. The pokemon characters all play pivotal roles in the immersive pokemon gaming experience. Each character brings their unique personality, skills and story to the table, captivating players and fans alike.
 This repository aims to provide a comprehensive collection of information about these characters, shedding light on their strengths and weaknesses in the pokemon game.
 
-## HOW STATS WORK IN POKEMON
+## How Stats Work in Pokemon
 Statistics also known as the stats are values that apply to a pokemon’s abilities in battle. Most stats are affected by the individual pokemon and their level while others are exclusive to battles and moves. The six primary factors that determines how a pokemon will perform in a battle include:
 1.	Hit-Points determines how much damage a pokemon can receive. When a pokemon HP is completely down to zero, the pokemon will faint. HP is the frequently affected stat of them all. The average base HP for a pokemon is 68.
 2.	Attack stats determines how powerful a pokemon’s physical moves will be.
@@ -12,32 +12,32 @@ Statistics also known as the stats are values that apply to a pokemon’s abilit
 5.	Special Defense determines how much damage a pokemon will resist when hit by a special move.
 6.	Speed determines which pokemon will act first during battle. Generally, the pokemon with the higher speed will be the one to attack first.
 
-## POKEMON TYPES:
+## Pokemon Types:
 Types are properties applied to pokemon and their moves which affects the power of moves in battles. A pokemon  may have either one or two types. For instance, Charmander is a fire type , while Bulbasaur is both a grass type and a poison type. In the word of pokemon, there are 18 types that are properties of the pokemon and their moves.
 
 
-## THE LARGEST POKEMON TYPE
+## The Largest Pokemon Type
 The largest pokemon type in the pokémon type 1 in terms of the number of pokemon species belonging to that type is the Water type while the largest type in the pokemon type 2 is the flying pokemon type. The water type is known for its versatility and representation of aquatic creatures.
 
-## THE SMALLEST POKEMON TYPE
+## The Smallest Pokemon Type
 The smallest pokemon type in pokemon type 1 in terms of the number  of pokemon species is the Flying type. Flying type pokemons are often associated with birds or winged creatures, but there are also other non-avian pokemon that possess the flying type.
 
-## THE STRONGEST POKEMON CHARACTER
+## The Strongest Pokemon Character
 Determining the strongest pokemon character depends on factors such as the stats. Considering the pokemon with exceptional overall power, it was discovered that Eternatus Eternamax is the strongest pokemon character with a stat of 1125. It has incredible base stats with high values in key attributes such as Special Defense, Hit-points e.t.c.
 
-## THE WEAKEST POKEMON CHARACTER
+## The Weakest Pokemon Character
 There are numerous characters with varying strengths and weaknesses. One pokemon that is often considered to have low base stats is Wishiwashi Solo Form. Wishiwashi Solo Farm, a  water-type pokemon has been discovered to be the weakest pokemon. It has extremely low base stats in most attributes including Special Defense, speed, e.t.c.
 
-## POKEMON WITH THE HIGHEST SPEED
+## Pokemon with the Highest Speed
 Regieleki has been discovered to boast of a speed stat of 200. It is known for its swiftness and agility making it one of the fastest pokemon in existence. With such a high speed stat, Regieleki often  outspace most other pokemon, allowing it to strike first in battle.
 
-## POKEMON WITH THE HIGHEST SPECIAL DEFENSE
+## Pokemon with the Highest Special Defense
 Eternatus Eternamax  has been discovered to boast of a special defense stat of 250, making it one of the highest in the pokemon universe. With such high special defense stat, it can endure special attacks with remarkable resilence.
 
-## POKEMON WITH THE HIGHEST SPECIAL ATTACK
+## Pokemon with the Highest Special Attack
 The pokemon with exceptional special attack stats which determines the power of their moves is Mewtwo Mega Mewtwo X. Mewtwo Mega Mewtwo X a psychic type pokemon is known for its remarkable intelligence and psychic abilities. Its high special attack stat allows it to unleash devastating special moves with great power.
 
-## POKEMON WITH THE HIGHEST HP STATS
+## Pokemon with the Highest HP Stats
 The characters with the highest HP stats are Blissey and Eternatus Eternamax  which has a base stat of 255 which is the maximum value possible for a pokemon base stat. There incredibly high HP allows it to soak up a significant amount of damage in battles making them excellent choices for defensive strategies.
 
 The thought process behind this data story involved collecting, analyzing and presenting data related to various aspects of the game. This process aims to uncover patterns, trends, insights and enhance our understanding of the pokemon characters showing there strengths and weeknesses.
@@ -54,14 +54,14 @@ e.	Which character has the best stats such as hit points, special attacks, speci
 6.	Providing Context and Interpretations: The visualizations was interpreted to ensure that the audience understands the relevance of the findings.
 7.	Drawing Conclusions: The data story were summarized and conclusions were drawn from the analysis and offered recommendations or predictions based on findings.
 
-## LIBRARIES USED FOR THE VISUALIZATION AND STORY TELLING
+## Libraries Used for the Visualization and Story Telling
 •	Excel
 
 • Tableau
 
-## SCREEN RECORDING OF THE VISUALIZATION
+## Screen Recording of the Visualization
 https://www.loom.com/share/1afa5e86ba0442049f105dbe830d96ff?sid=156523aa-2d5d-402e-b141-067717e40a89
 
-## CONCLUSION
+## Conclusion
 In conclusion, the pokemon game features a rich array of characters that contribute to the immersive and engaging gameplay experience. From the player character to their rivals, each character brings their unique traits and challenges to the storyline. The pokemon game character analysis examines various aspects of the pokemon species within the games to gain insights into their strengths, weaknesses and overall viability. This analysis helps trainers to make informed decisions when building their teams. The analysis focuses on the individual characteristics of pokémon such as the total stats, hit points, special defense, special attack and types. By evaluating these factors, trainers can identify pokémon with high capabilities, exceptional defenses or unique abilities that provides strategic advances in battles.
 Overall, pokémon game character analysis provides trainers with the knowledge and understanding necessary to make strategic decisions when selecting, training and utilizing pokémon species in battles. It enhances the gameplay experience by empowering trainers to optimize their teams, exploit advantages and overcome challenges they encounter throughout their pokémon journey.
